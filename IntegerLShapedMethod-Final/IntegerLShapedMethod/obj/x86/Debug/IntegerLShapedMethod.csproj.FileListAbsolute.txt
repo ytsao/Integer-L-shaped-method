@@ -1,0 +1,81 @@
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\ILOG.Concert.dll
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.dll
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\tasoc\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\tasoc\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\MathNet.Numerics.dll
+C:\Users\tasoc\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+C:\Users\tasoc\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\tasoc\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\tasoc\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\tasoc\Desktop\IntegerLShapedMethod\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\MathNet.Numerics.dll
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+C:\Users\tasoc\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\tasoc\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\tasoc\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\tasoc\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\tasoc\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\tasoc\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\tasoc\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+Z:\Projects\APP\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+Z:\Projects\APP\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\ILOG.Concert.dll
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.dll
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\MB606\Desktop\IntegerLShapedMethod(ver2)\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2) - 複製\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2) - 複製\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2) - 複製\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2) - 複製\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2) - 複製\IntegerLShapedMethod\bin\Debug\MathNet.Numerics.dll
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2) - 複製\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2) - 複製\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2) - 複製\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)-Final\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)-Final\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)-Final\IntegerLShapedMethod\bin\Debug\MathNet.Numerics.dll
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)-Final\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)-Final\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod(ver2)-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\MathNet.Numerics.dll
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\MB606\Desktop\Project\Project\Course\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
+C:\Users\MB606\Desktop\Project\Project\Course\108下\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\108下\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\108下\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.exe
+C:\Users\MB606\Desktop\Project\Project\Course\108下\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\IntegerLShapedMethod.pdb
+C:\Users\MB606\Desktop\Project\Project\Course\108下\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\ILOG.Concert.xml
+C:\Users\MB606\Desktop\Project\Project\Course\108下\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\bin\Debug\ILOG.CPLEX.xml
+C:\Users\MB606\Desktop\Project\Project\Course\108下\Stochastic Programming\IntegerLShapedMethod-Final\IntegerLShapedMethod\obj\x86\Debug\IntegerLShapedMethod.csprojResolveAssemblyReference.cache
